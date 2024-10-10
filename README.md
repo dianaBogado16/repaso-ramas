@@ -1,4 +1,6 @@
 README.md
 #clase 06 -bootcamp
 
-##repaso git
+## Repaso git
+
+## creo el repositorio de git 
