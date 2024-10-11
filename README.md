@@ -45,5 +45,9 @@ git log # version larga
 git log --oneline # version corta
 
 ```
+# Para ver si se agrego el repo remoto
+```sh
+git remote -v
+```
 
 
