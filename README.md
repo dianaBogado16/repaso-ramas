@@ -3,4 +3,16 @@ README.md
 
 ## Repaso git
 
-## creo el repositorio de git 
+## creo el repositorio de GIT
+
+```sh
+git init
+```
+
+## Listo el estado de los archivos
+
+```sh
+git status
+```
+
+
