@@ -49,5 +49,9 @@ git log --oneline # version corta
 ```sh
 git remote -v
 ```
+## subo al remoto el repositorio local
 
-
+```sh
+git push -u origin main # la primera vez
+git push # ya las proximas veces solo uso este comando (con la rama main)
+```
