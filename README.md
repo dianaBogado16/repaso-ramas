@@ -38,5 +38,12 @@ git config --global core.editor nano
 git config --global core.editor "code --wait"
 ```
 
+# Ver el listado de commits que hice en el repo
+
+```sh
+git log # version larga
+git log --oneline # version corta
+
+```
 
 
